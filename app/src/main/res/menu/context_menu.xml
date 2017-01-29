@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/consume"
+        android:title="@string/title_consume">
+    </item>
+
+    <item
+        android:id="@+id/edit"
+        android:title="@string/title_edit">
+    </item>
+
+    <item
+        android:id="@+id/update_quantity"
+        android:title="@string/title_update_qty">
+    </item>
+
+</menu>

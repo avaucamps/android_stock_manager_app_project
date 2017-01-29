@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <NumberPicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/numberPickerQuantity"
+        android:layout_below="@+id/textQuantity"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

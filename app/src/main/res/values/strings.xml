@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Navigation drawer-->
+    <!--Navigation drawer menus-->
+    <string name="AddRemove">Add/Remove</string>
+    <string name="List">Shopping list</string>
+    <string name="Create_new">Create new</string>
+    <string name="Delete">Delete</string>
+    <string name="Recipes">Recipes</string>
+    <string name="Nutrition">Nutrition</string>
+    <string name="More">More</string>
+    <string name="FoodStocker">Food Stocker</string>
+
+    <!-- array of types -->
+    <string-array name="types">
+        <item>Fresh products</item>
+        <item>Vegetables and fruits</item>
+        <item>Meat and fish</item>
+        <item>Bread and pastry</item>
+        <item>Drinks</item>
+        <item>Hygiene</item>
+        <item>Frozen</item>
+        <item>Sweet grocery</item>
+        <item>Salted grocery</item>
+        <item>Pet shop</item>
+    </string-array>
+
+    <!--Dialogs-->
+    <string name="DeleteMessage">Are you sure you want to delete this product ?</string>
+    <string name="Yes">Yes</string>
+    <string name="Cancel">Cancel</string>
+    <string name="AddRemoveTitle">Add or remove products from stock</string>
+    <string name="Ok">Ok</string>
+    <string name="ListProducts">Groceries list</string>
+    <string name="updateTitle">Select quantity of</string>
+    <string name="TypeTitle">Choose a type</string>
+    <string name="consumeTitle">Select the consumed quantity of</string>
+
+    <!-- array for tabs -->
+    <string-array name="TabsTitles">
+        <item>Morning</item>
+        <item>Noon</item>
+        <item>Evening</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="action_sort_type">Sort by type</string>
+    <string name="action_search">sort_by_name</string>
+    <string name="title_edit">Edit</string>
+    <string name="title_update_qty">Update quantity</string>
+    <string name="title_remove">Remove</string>
+    <string name="title_consume">Consume</string>
+    <string name="loading">Loading</string>
+    <string name="action_refresh">refresh</string>
+    <string name="title_activity_add_remove">AddRemoveActivity</string>
+    <string name="main_title">Groceries Stocker</string>
+    <string name="add_remove_title">Update your stock</string>
+    <string name="create_title">Create a new product</string>
+    <string name="edit_title">Edit</string>
+    <string name="error_message">Error</string>
+    <string name="missing_name">Please type a name before saving.</string>
+    <string name="missing_information">Please fill all the fields.</string>
+    <string name="empty_list">No items to display.</string>
+
+    <!--quantity types -->
+    <string-array name="content">
+        <item>none</item>
+        <item>each</item>
+        <item>piece</item>
+        <item>bag</item>
+        <item>bottle</item>
+        <item>box</item>
+        <item>case</item>
+        <item>pack</item>
+        <item>can</item>
+        <item>jar</item>
+        <item>bunch</item>
+        <item>roll</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>L</item>
+        <item>dL</item>
+        <item>mL</item>
+    </string-array>
+</resources>

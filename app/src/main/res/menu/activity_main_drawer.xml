@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_add_remove"
+            android:icon="@mipmap/ic_swap_vert_black_24dp"
+            android:title="@string/AddRemove" />
+        <item
+            android:id="@+id/nav_shopping_list"
+            android:icon="@mipmap/ic_shopping_cart_black_24dp"
+            android:title="@string/List" />
+        <item
+            android:id="@+id/nav_create_new"
+            android:icon="@mipmap/ic_create_black_24dp"
+            android:title="@string/Create_new" />
+        <item
+            android:id="@+id/nav_delete"
+            android:icon="@mipmap/ic_delete_black_24dp"
+            android:title="@string/Delete" />
+    </group>
+
+    <!--<item android:title="@string/More">
+        <menu>
+            <item
+                android:id="@+id/nav_recipes"
+                android:icon="@mipmap/ic_restaurant_menu_black_24dp"
+                android:title="@string/Recipes" />
+            <item
+                android:id="@+id/nav_nutrition"
+                android:icon="@mipmap/ic_pie_chart_black_24dp"
+                android:title="@string/Nutrition" />
+        </menu>
+    </item>-->
+
+
+</menu>
