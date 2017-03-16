@@ -1,5 +1,5 @@
 # AV_MobileAppProject
-This is a mobile application for android which allow the user to manage his stock of groceries or other products.
+This is a mobile application for android which allows the user to manage his stock of groceries or other products.
 
 When the user first opens the app, he can see the products he has in stock and their quantity. The products are placed in tabs representing
 moments of day, a product is visible in the tab of the moment(s) of day it is supposed to be consumed at. For example vegetables can be 
